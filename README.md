@@ -15,9 +15,6 @@ Hello! I'm Agzaiyenth Ganaraj, <br><br>An undergraduate student at the Universit
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=agzaiyenth&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=agzaiyenth&icon=10&color=3)](https://visitcount.itsvg.in)
 
