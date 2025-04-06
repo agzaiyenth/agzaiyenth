@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Agzaiyenth Ganaraj, <br><br>An undergraduate student at the University of Westminster, pursuing a BSc in Computer Science. I have a deep passion for Artificial Intelligence (AI) and Machine Learning (ML), which drives my enthusiasm for exploring the latest advancements and applications in these fields.<br>Interests<br><br>    Artificial Intelligence: Exploring innovative AI solutions and applications.<br>    Machine Learning: Developing and implementing machine learning models.<br>    Web Development: Creating and designing websites.
+Hello! I'm Agzaiyenth Ganaraj, <br><br>An undergraduate student at the University of Westminster, pursuing a BSc in Computer Science. I have a deep passion for Artificial Intelligence (AI) and Machine Learning (ML), which drives my enthusiasm for exploring the latest advancements and applications in these fields.<br>Interests<br><br>    
 
 
 ## 🌐 Socials:
