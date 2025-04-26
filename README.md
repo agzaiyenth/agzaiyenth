@@ -18,5 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=agzaiyenth&icon=10&color=3)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=agzaiyenth)](https://git.io/streak-stats)
 
