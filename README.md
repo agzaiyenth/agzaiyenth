@@ -2,7 +2,7 @@
 <br>An undergraduate student at the University of Westminster, pursuing a BSc in Computer Science. I have a deep passion for Artificial Intelligence (AI) and Machine Learning (ML), which drives my enthusiasm for exploring the latest advancements and applications in these fields.<br>   
 
 
-#🌐 Socials:
+##🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.xagxeinthx._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agzaiyenth) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@agzaiyenthganaraj) 
 
 # 💻 Tech Stack:
@@ -17,5 +17,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=agzaiyenth&icon=10&color=3)](https://visitcount.itsvg.in)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=agzaiyenth)](https://git.io/streak-stats)
 
 
